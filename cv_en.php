@@ -38,7 +38,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
           <!-- <p>Adobe Photoshop CC</p> -->
           <!-- <p>Adobe Illustrator CC</p> -->
-          <p>Full Stack Web Development <i class="w3-small">HTML, CSS, Scrum, Bootstrap, Tailwind, PHP, POO, GitHub, MySQL, UML, JavaScript, Laravel, Vue</i> </p>
+          <p>Full Stack Web Development <i class="w3-small">HTML, CSS, Scrum, Bootstrap, Tailwind, PHP, POO, Git, MySQL, UML, JavaScript, Laravel, Vue</i> </p>
           <p>Adobe Suite CC <i class="w3-small">Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</i> </p>
           <!-- <p>Adobe InDesign CC</p> -->
           <p>Photography</p>
