@@ -38,7 +38,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
           <!-- <p>Adobe Photoshop CC</p> -->
           <!-- <p>Adobe Illustrator CC</p> -->
-          <p>Full Stack Web Development <i class="w3-small">HTML 5, CSS 3, Scrum, Bootstrap, PHP, POO, GitHub, MySQL, UML, JavaScript, Laravel</i> </p>
+          <p>Full Stack Web Development <i class="w3-small">HTML, CSS, Scrum, Bootstrap, Tailwind, PHP, POO, GitHub, MySQL, UML, JavaScript, Laravel, Vue</i> </p>
           <p>Adobe Suite CC <i class="w3-small">Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</i> </p>
           <!-- <p>Adobe InDesign CC</p> -->
           <p>Photography</p>
@@ -81,9 +81,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Full Stack Developer / Rolify</b></h5>
-          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2017 - <span class="w3-tag w3-purple w3-round">Current</span></h6>
-          <p>Landing Page development, Overall site design, PHP development, Random functionality, Illustrations.</p>
+          <h5 class="w3-opacity"><b>SSr Full Stack Developer / Digital House</b></h5>
+          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2017 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
+          <p>Develop a website with a content editing system and integration with external sistems. Paied with an internal Editable REST Api. Laravel + SASS / Vue + Tailwind / Node + ORM (Homemade). Prototype and design in Adobe XD</p>
+          <hr class="w3-deep-purple">
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Codeing Teacher / Digital House</b></h5>
+          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2016 - Dic 2018</h6>
+          <p>Teach Code. Html + CSS, PHP, Laravel and JS</p>
           <hr class="w3-deep-purple">
         </div>
         <div class="w3-container">

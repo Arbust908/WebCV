@@ -38,8 +38,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Habilidades</b></p>
           <!-- <p>Adobe Photoshop CC</p> -->
           <!-- <p>Adobe Illustrator CC</p> -->
-          <p>Desarrollo Web Full Stack <i class="w3-small">HTML 5, CSS 3, Scrum, Bootstrap, PHP, POO, GitHub, MySQL, UML, JavaScript, Laravel</i> </p>
-          <p>Adobe Suite CC <i class="w3-small">Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</i> </p>
+          <p>Desarrollo Web Full Stack <i class="w3-small">HTML, CSS, Scrum, Bootstrap, Tailwind, PHP, POO, Git, MySQL, UML, JavaScript, Laravel, Vue</i> </p>
+          <p>Adobe Suite CC <i class="w3-small">XD, Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</i> </p>
           <!-- <p>Adobe InDesign CC</p> -->
           <p>Fotografia</p>
           <p>Edicion de Vidio</p>
@@ -81,9 +81,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Experiencia Laboral</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Desarrollo Full Stack / Rolify</b></h5>
+          <h5 class="w3-opacity"><b>Desarrollo Full Stack SSr / Digital House</b></h5>
           <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Ene 2017 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
-          <p>Desarrollo de landing page, diseño del sitio, desarrollo PHP, funcionalidad alatorea, Ilustracion.</p>
+          <p>Desarrollo de una web sistemas de edicion de contenido e interaccion con otros sistemas externos. Coneccion con Api REST interna con CRUD. Laravel + SASS / Vue + Tailwind / Node + ORM (Propio). Prototipado y diseño en Adobe XD</p>
+          <hr class="w3-deep-purple">
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Profesor de programación / Digital House</b></h5>
+          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2016 - Dic 2018</h6>
+          <p>Dictar clases de programación. Html + CSS, PHP, Laravel y JS</p>
           <hr class="w3-deep-purple">
         </div>
         <div class="w3-container">
