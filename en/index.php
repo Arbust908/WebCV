@@ -12,7 +12,8 @@
       </div>
 
       <div class="w3-twothird">
-        <?php include_once('../components/rightCol.php'); ?>
+        <?php include_once('../components/experiences.php'); ?>
+        <?php include_once('../components/educations.php'); ?>
       </div>
 
     </section>

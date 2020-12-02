@@ -26,7 +26,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Space Grotesk', sans-serif;}
           <img src="avatar_hat.jpg" style="width:100%" alt="Avatar">
           <div class=".w3-display-bottom w3-container w3-large w3-text-purple">
             <h2 class="w3-center pb-boldness">Fran Blanco</h2>
-            <a href="cv_en.php" title="English"><h6 class="w3-medium w3-text-deep-purple"><i class="fa fa-language fa-2x fa-fw w3-margin-right"></i><span class="w3-tag w3-purple w3-round">Cambiar idioma</span></h6></a>
+            <a href="/en/" title="English"><h6 class="w3-medium w3-text-deep-purple"><i class="fa fa-language fa-2x fa-fw w3-margin-right"></i><span class="w3-tag w3-purple w3-round">Cambiar idioma</span></h6></a>
           </div>
         </div>
         <div class="w3-container">
@@ -40,18 +40,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Space Grotesk', sans-serif;}
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Habilidades</b></p>
           <!-- <p>Adobe Photoshop CC</p> -->
           <!-- <p>Adobe Illustrator CC</p> -->
-          <p>Desarrollo Web Full Stack <i class="w3-small">Vue, Nuxt, Tailwind, HTML, CSS, Scrum, Bootstrap, PHP, POO, Git, MySQL, UML, JavaScript, Laravel,  Node, Express, Handlebars</i> </p>
-          <p>Adobe Suite CC <i class="w3-small">XD, Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</i> </p>
-          <!-- <p>Adobe InDesign CC</p> -->
-          <p>Fotografia</p>
-          <p>Edicion de Vidio</p>
-          <p>Unity & C#</p>
-          <p>Maya </p>
-          <!-- <p>Adobe After Effects CC </p> -->
-          <p>3DMax </p>
-          <!-- <p>Adobe Premiere CC </p> -->
-          <p>ZBrush </p>
-          <!-- <p>Adobe Animate CC </p> -->
+          <h4>Desarrollo Web Full Stack </h4>
+          <p class="w3-small">Vue, Nuxt, Tailwind, HTML, CSS, Scrum, Bootstrap, PHP, POO, Git, MySQL, UML, JavaScript, Laravel,  Node, Express, Handlebars</p>
+          <h4>Adobe Suite CC </h4>
+          <p class="w3-small">XD, Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</p>
+          <h4>Otros </h4>
+          <p class="w3-small">Fotografia, Edicion de Vidio, Unity & C#, Maya, 3DMax, ZBrush</p>
           <hr class="w3-deep-purple">
           <br>
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-purple"></i>Idiomas</b></p>
@@ -65,7 +59,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Space Grotesk', sans-serif;}
             <div class="w3-round-xlarge w3-purple" style="height:24px;width:100%">
             <h6 style="text-align: center;" >Nativo</h6></div>
           </div>
-          <p>Franses</p>
+          <p>Frances</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-purple" style="height:24px;width:25%">
             <h6 style="text-align: center;" >Basico</h6></div>
