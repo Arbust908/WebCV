@@ -1,6 +1,6 @@
 <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="avatar_hat.jpg" style="width:100%" alt="Avatar">
+          <img src="/assets/img/avatar.jpg" style="width:100%" alt="Avatar">
           <div class=".w3-display-bottom w3-container w3-large w3-text-purple">
             <h2 class="w3-center pb-boldness">Fran Blanco</h2>
             <a href="index.php" title="Español"><h6 class="w3-medium w3-text-deep-purple"><i class="fa fa-language fa-2x fa-fw w3-margin-right"></i><span class="w3-tag w3-purple w3-round">Change Language</span></h6></a>
