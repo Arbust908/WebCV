@@ -85,7 +85,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Space Grotesk', sans-serif;}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Desarrollo Full Stack Sr / PointMore</b></h5>
           <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Ene 2020 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
-          <p>Desarrollo de una web apps con sistemas de gestion y panel de metricas para una variedad de clientes. Web Apps construidas en Nuxt para ofrecer SSR y optimizacion de SEO, componentizacion en Vue, manejo de estado interno con Vuex y la posibilidad de ser instaladas como PWA. Conexión con Api REST via AXIOS a servicios en Express con DB en SQL (via Sequilaze). Prototipados y diseños en Adobe XD o Figma</p>
+          <p>Desarrollo de una web apps con sistemas de gestion y panel de metricas para una variedad de clientes. Web Apps construidas en Nuxt para ofrecer SSR y optimizacion de SEO, componentizacion en Vue, manejo de estado interno con Vuex y la posibilidad de ser instaladas como PWA. Conexión con Api REST via AXIOS a servicios en Express con DB en SQL (via Sequelize). Prototipados y diseños en Adobe XD o Figma</p>
           <hr class="w3-deep-purple">
         </div>
         <div class="w3-container">
