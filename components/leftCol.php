@@ -15,13 +15,13 @@
         <hr class="w3-deep-purple">
 
         <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
-        <h4>Full Stack Web Development</h4>
-        <p class="w3-small">Vue, Nuxt, Tailwind, HTML, CSS, Scrum, Bootstrap, PHP, POO, Git, MySQL, UML, JavaScript, Laravel,  Node, Express, Handlebars</p>
-        <h4>Adobe Suite CC</h4>
-        <p class="w3-small">Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</p>
+        <h4 class="mb-1">Full Stack Web Development</h4>
+        <p class="text-sm pb-2 pl-1">Vue, Nuxt, Tailwind, HTML, CSS, Scrum, Bootstrap, PHP, POO, Git, MySQL, UML, JavaScript, Laravel,  Node, Express, Handlebars</p>
+        <h4 class="mb-1">Adobe Suite CC</h4>
+        <p class="text-sm pb-2 pl-1">Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</p>
         
-        <h4>Others</h4>
-        <p class="w3-small">Photography, Video Editing, Unity & C#, Maya, 3DMax, ZBrush</p>
+        <h4 class="mb-1">Others</h4>
+        <p class="text-sm pb-2 pl-1">Photography, Video Editing, Unity & C#, Maya, 3DMax, ZBrush</p>
         <hr class="w3-deep-purple">
         <br>
         <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-purple"></i>Languages</b></p>
