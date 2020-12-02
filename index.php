@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
-<title>CV</title>
+<title>CV - Fran Blanco</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="master.css">
-<link rel='stylesheet' href='<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">'>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
+html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Space Grotesk', sans-serif;}
 </style>
 <body class="w3-light-grey">
 
@@ -24,14 +25,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
         <div class="w3-display-container">
           <img src="avatar_hat.jpg" style="width:100%" alt="Avatar">
           <div class=".w3-display-bottom w3-container w3-large w3-text-purple">
-            <h2 class="w3-center pb-boldness">Francisco Blanco</h2>
+            <h2 class="w3-center pb-boldness">Fran Blanco</h2>
             <a href="cv_en.php" title="English"><h6 class="w3-medium w3-text-deep-purple"><i class="fa fa-language fa-2x fa-fw w3-margin-right"></i><span class="w3-tag w3-purple w3-round">Cambiar idioma</span></h6></a>
           </div>
         </div>
         <div class="w3-container">
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-purple"></i>Desarrollador</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-purple"></i>Buenos Aires, Ar</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>yo@panchoblanco.com.ar</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>yo@panchoblanco.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-purple"></i>15-3175-2829</p>
           <p><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-purple"></i>https://github.com/Arbust908</p>
           <hr class="w3-deep-purple">

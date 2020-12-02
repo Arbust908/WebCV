@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
-<title>CV</title>
+<title>CV - Fran Blanco</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="master.css">
-<link rel='stylesheet' href='<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">'>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
+html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Space Grotesk', sans-serif;}
 </style>
 <body class="w3-light-grey">
 
@@ -24,21 +25,22 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
         <div class="w3-display-container">
           <img src="avatar_hat.jpg" style="width:100%" alt="Avatar">
           <div class=".w3-display-bottom w3-container w3-large w3-text-purple">
-            <h2 class="w3-center pb-boldness">Francisco Blanco</h2>
+            <h2 class="w3-center pb-boldness">Fran Blanco</h2>
             <a href="index.php" title="Español"><h6 class="w3-medium w3-text-deep-purple"><i class="fa fa-language fa-2x fa-fw w3-margin-right"></i><span class="w3-tag w3-purple w3-round">Change Language</span></h6></a>
           </div>
         </div>
         <div class="w3-container">
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-purple"></i>Developer</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-purple"></i>Buenos Aires, Ar</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>yo@panchoblanco.com.ar</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>yo@panchoblanco.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-purple"></i>15-3175-2829</p>
+          <p><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-purple"></i>https://github.com/Arbust908</p>
           <hr class="w3-deep-purple">
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
           <!-- <p>Adobe Photoshop CC</p> -->
           <!-- <p>Adobe Illustrator CC</p> -->
-          <p>Full Stack Web Development <i class="w3-small">HTML, CSS, Scrum, Bootstrap, Tailwind, PHP, POO, Git, MySQL, UML, JavaScript, Laravel, Vue</i> </p>
+          <p>Full Stack Web Development <i class="w3-small">Vue, Nuxt, Tailwind, HTML, CSS, Scrum, Bootstrap, PHP, POO, Git, MySQL, UML, JavaScript, Laravel,  Node, Express, Handlebars</i> </p>
           <p>Adobe Suite CC <i class="w3-small">Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate</i> </p>
           <!-- <p>Adobe InDesign CC</p> -->
           <p>Photography</p>
@@ -81,8 +83,20 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Josefin Slab", sans-serif}
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Work Experience</h2>
         <div class="w3-container">
+          <h5 class="w3-opacity"><b>Sr Full Stack Developer / PointMore</b></h5>
+          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
+          <!-- <p>Desarrollo de una web apps con sistemas de gestion y panel de metricas para una variedad de clientes. Web Apps construidas en Nuxt para ofrecer SSR y optimizacion de SEO, componentizacion en Vue, manejo de estado interno con Vuex y la posibilidad de ser instaladas como PWA. Conexión con Api REST via AXIOS a servicios en Express con DB en SQL (via Sequilaze). Prototipados y diseños en Adobe XD o Figma</p> -->
+          <hr class="w3-deep-purple">
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Main Front-End Developer / BitPatagonia</b></h5>
+          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2020 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
+          <!-- <p>Desarrollo de una web institucional interactiva y un Dashboard con metricas internas y controles remotos de maquinas. Web Apps construidas en Nuxt para ofrecer SSR y optimizacion de SEO, con libreria de componentes compartidas en Vue, conexion abierta en tiempo real via Sockets y mantención de estado interno via Vuex. Prototipados y diseños en Adobe XD</p> -->
+          <hr class="w3-deep-purple">
+        </div>
+        <div class="w3-container">
           <h5 class="w3-opacity"><b>SSr Full Stack Developer / Digital House</b></h5>
-          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2017 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
+          <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2017 - Jul 2020</h6>
           <p>Develop a website with a content editing system and integration with external sistems. Paied with an internal Editable REST Api. Laravel + SASS / Vue + Tailwind / Node + ORM (Homemade). Prototype and design in Adobe XD</p>
           <hr class="w3-deep-purple">
         </div>
