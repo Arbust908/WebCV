@@ -85,13 +85,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Space Grotesk', sans-serif;}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Sr Full Stack Developer / PointMore</b></h5>
           <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2020 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
-          <!-- <p>Desarrollo de una web apps con sistemas de gestion y panel de metricas para una variedad de clientes. Web Apps construidas en Nuxt para ofrecer SSR y optimizacion de SEO, componentizacion en Vue, manejo de estado interno con Vuex y la posibilidad de ser instaladas como PWA. Conexión con Api REST via AXIOS a servicios en Express con DB en SQL (via Sequilaze). Prototipados y diseños en Adobe XD o Figma</p> -->
+          <p>Development of Web Apps with management systems and metric panels for a viraity of clients. WebApps are build with Nuxt to offer SSR and SEO optimization, components in Vue, internal state management with Vuex and the option to make an installable app as a PWA. Conection to a SQL DB (Sequelize) with REST Api via Axios in Express services. Designs and Prototipes done with Adobe XD </p>
           <hr class="w3-deep-purple">
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Main Front-End Developer / BitPatagonia</b></h5>
           <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2020 - <span class="w3-tag w3-purple w3-round">Actual</span></h6>
-          <!-- <p>Desarrollo de una web institucional interactiva y un Dashboard con metricas internas y controles remotos de maquinas. Web Apps construidas en Nuxt para ofrecer SSR y optimizacion de SEO, con libreria de componentes compartidas en Vue, conexion abierta en tiempo real via Sockets y mantención de estado interno via Vuex. Prototipados y diseños en Adobe XD</p> -->
+          <p> Develop an interactive institutional web and a Dashboard with internal metric and access to remote control machines. The WebApp is build with Nuxt to offer SSR and SEO optimization, a shared component library in Vue, real time open conexion via Sockets and internal state management with Vuex. Designs and Prototipes done with Adobe XD </p>
           <hr class="w3-deep-purple">
         </div>
         <div class="w3-container">
