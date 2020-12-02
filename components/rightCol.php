@@ -1,4 +1,4 @@
 <?php 
-    include_once('./components/experiences.php'); 
-    include_once('./components/educations.php'); 
+    include_once('./experiences.php'); 
+    include_once('./educations.php'); 
 ?>
